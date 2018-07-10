@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://i.imgur.com/mRHa2CT.jpg) bottom center;
   background-size: cover;
 }
 body,html {
@@ -22,7 +22,7 @@ body,html {
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
-  padding: 1rem .5rem;
+  padding: 2rem 1rem;
   transition: all .07s ease;
   width: 10rem;
   text-align: center;
